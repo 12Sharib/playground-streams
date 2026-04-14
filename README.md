@@ -6,3 +6,6 @@
 - Q05 - Sort Strings by Length
 - Q06 - Find String with Maximum Length
 - Q07 - Group Strings by First Character
+- Q08 - Partition Even and Odd Numbers
+- Q09 - Group and Count by First Character
+- Q10 - Convert List to Map (String -> Length)
