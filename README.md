@@ -13,3 +13,5 @@
 - Q11 - Convert List to Map with Duplicate Key Handling
 - Q12 - Sort Map by Value
 - Q13 - Flatten List of Lists
+### Advance
+- Q14 - Find Second Highest Number
