@@ -18,3 +18,4 @@
 - Q15 - Find Most Frequent Element
 - Q16 - Find Duplicate Elements
 - Q17 - Find Longest String
+- Q18 - Group Strings and Map to Lengths
