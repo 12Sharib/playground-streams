@@ -22,3 +22,4 @@
 - Q19 - Group Strings and Find Max Length in Each Group
 - Q20 - Partition Numbers and Calculate Sum
 - Q21 - Top K Frequent Elements
+- Q22 - Join Strings Using Delimiter
