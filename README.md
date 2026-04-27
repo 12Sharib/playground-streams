@@ -25,3 +25,4 @@
 - Q22 - Join Strings Using Delimiter
 - Q23 - Custom Transformation and Joining
 - Q24 - Remove Duplicates While Preserving Order
+- Q25 - Find First Duplicate Element
