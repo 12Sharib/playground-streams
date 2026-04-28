@@ -28,3 +28,4 @@
 - Q25 - Find First Duplicate Element
 - Q26 - Check Anagram Using Streams
 - Q27 - Group Anagrams
+- Q28 - Find Kth Smallest Element
