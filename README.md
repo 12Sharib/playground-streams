@@ -31,3 +31,5 @@
 - Q28 - Find Kth Smallest Element
 - Q29 - Sum of Top K Largest Elements
 - Q30 - Max Salary Employee by Department
+- Q31 - Average Salary by Department
+- Q32 - Group Employee Names by Department
