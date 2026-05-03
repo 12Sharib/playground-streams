@@ -33,3 +33,4 @@
 - Q30 - Max Salary Employee by Department
 - Q31 - Average Salary by Department
 - Q32 - Group Employee Names by Department
+- Q33 - Salary Statistics by Department
