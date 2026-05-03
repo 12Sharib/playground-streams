@@ -2,22 +2,8 @@ package advance.class_based;
 
 import java.util.*;
 import java.util.stream.*;
-
-class Employee {
-    String name;
-    String department;
-    int salary;
-
-    public Employee(String name, String department, int salary) {
-        this.name = name;
-        this.department = department;
-        this.salary = salary;
-    }
-
-    public String getName() { return name; }
-    public String getDepartment() { return department; }
-    public int getSalary() { return salary; }
-}
+import advance.class_based.*;
+import advance.class_based.model.Employee;
 
 public class Q30_EmployeeMaxSalaryByDept {
 
