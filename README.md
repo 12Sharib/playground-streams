@@ -34,3 +34,4 @@
 - Q31 - Average Salary by Department
 - Q32 - Group Employee Names by Department
 - Q33 - Salary Statistics by Department
+- Q34 - Group by Department and Sort by Salary Desc
