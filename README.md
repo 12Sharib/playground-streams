@@ -36,3 +36,4 @@
 - Q33 - Salary Statistics by Department
 - Q34 - Group by Department and Sort by Salary Desc
 - Q35 - Multi-Level Grouping (Dept + Salary Range)
+- Q36 - Department Wise Top Earner Name
