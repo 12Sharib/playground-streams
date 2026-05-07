@@ -37,3 +37,4 @@
 - Q34 - Group by Department and Sort by Salary Desc
 - Q35 - Multi-Level Grouping (Dept + Salary Range)
 - Q36 - Department Wise Top Earner Name
+- Q37 - Department Wise Second Highest Salary
